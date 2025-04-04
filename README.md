@@ -1,4 +1,4 @@
 # Solar Client
 A eaglecraft client/launcher
 
-Credits to
+Credits to seasnail9 for the launcher
