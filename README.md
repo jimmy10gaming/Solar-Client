@@ -1,4 +1,4 @@
-# pratal
-A minimalistic eaglecraft client
+# Solar Client
+A eaglecraft client/launcher
 
-with no easter eggs
+Credits to
